@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/authorization/authorization.iml" filepath="$PROJECT_DIR$/authorization/authorization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-services/base-services.iml" filepath="$PROJECT_DIR$/base-services/base-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-libraries.iml" filepath="$PROJECT_DIR$/common-libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ehcache-utils/ehcache-utils.iml" filepath="$PROJECT_DIR$/ehcache-utils/ehcache-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hazelcast-utils/hazelcast-utils.iml" filepath="$PROJECT_DIR$/hazelcast-utils/hazelcast-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lang-utils/lang-utils.iml" filepath="$PROJECT_DIR$/lang-utils/lang-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/preferences/preferences.iml" filepath="$PROJECT_DIR$/preferences/preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xml-schema-utils/xml-schema-utils.iml" filepath="$PROJECT_DIR$/xml-schema-utils/xml-schema-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xml-utils/xml-utils.iml" filepath="$PROJECT_DIR$/xml-utils/xml-utils.iml" />
+    </modules>
+  </component>
+</project>

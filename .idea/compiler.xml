@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="authorization" />
+        <module name="base-services" />
+        <module name="preferences" />
+        <module name="hazelcast-utils" />
+        <module name="ehcache-utils" />
+        <module name="xml-schema-utils" />
+        <module name="lang-utils" />
+        <module name="xml-utils" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="authorization" target="1.8" />
+      <module name="base-services" target="1.8" />
+      <module name="common-libraries" target="1.8" />
+      <module name="ehcache-utils" target="1.8" />
+      <module name="hazelcast-utils" target="1.8" />
+      <module name="lang-utils" target="1.8" />
+      <module name="preferences" target="1.8" />
+      <module name="xml-schema-utils" target="1.8" />
+      <module name="xml-utils" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
